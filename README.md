@@ -1,6 +1,6 @@
-# CulinAI 🍳
+# CulinAry 🍳
 
-A modern, AI-powered recipe management and nutrition tracking platform built with Next.js 15, React 19, and TypeScript.
+A modern, AI-powered recipe management and nutrition tracking platform built with Swift for iOs
 
 ## Features
 
