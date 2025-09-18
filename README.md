@@ -1,4 +1,4 @@
-# CulinAry 🍳
+# CulinAiry 🍳
 
 A modern, AI-powered recipe management and nutrition tracking platform built with Swift for iOs
 
@@ -169,7 +169,7 @@ A modern, AI-powered recipe management and nutrition tracking platform built wit
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd CulinAIry
+   cd CulinAiry
    ```
 
 2. **Install dependencies**
@@ -915,4 +915,4 @@ This document now follows all project standards:
 
 ---
 
-**CulinAIry** - Where AI meets culinary creativity! 🍳✨
+**CulinAiry** - Where AI meets culinary creativity! 🍳✨
